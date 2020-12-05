@@ -12,7 +12,7 @@ namespace Day1
     {
         private const int EntriesTotal = 2020;
 
-        private static void Main()
+        private static void Main(string[] args)
         {
             // Sort list
             var data = GetListData();
